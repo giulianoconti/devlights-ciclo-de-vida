@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devlights-ciclo-de-vida/static/css/main.e6c13ad2.css",
+    "main.js": "/devlights-ciclo-de-vida/static/js/main.a931bdd4.js",
+    "index.html": "/devlights-ciclo-de-vida/index.html",
+    "main.e6c13ad2.css.map": "/devlights-ciclo-de-vida/static/css/main.e6c13ad2.css.map",
+    "main.a931bdd4.js.map": "/devlights-ciclo-de-vida/static/js/main.a931bdd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a931bdd4.js"
+  ]
+}
