@@ -1,6 +1,6 @@
 # Ciclos de vida, componente Reactjs
 
-https://giuliannt.github.io/devlights-ciclo-de-vida/
+https://giulianoconti.github.io/devlights-ciclo-de-vida/
 
 ## Cuando se ejecuta la app por primera vez:
 Primero se ejecuta el console.log(render).\
